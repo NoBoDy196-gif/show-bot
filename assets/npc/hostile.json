@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Boss",
+    "type": "hostile",
+    "experience": 10,
+    "coins": 5,
+    "attributs": {
+      "hp": 20,
+      "strength": 6,
+      "agility": 3,
+      "intelligence": 2,
+      "spirit": 1
+    }
+  }
+]

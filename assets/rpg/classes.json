@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Warrior",
+        "icon": "https://discord.com/channels/754468790208692245/754470556539027528/766751745988231229",
+        "description": "Since the war has been raging, heroes of all races have sought to master the art of combat. Warriors combine strength, authority, and mastery of weapons to wreak havoc in epic battles.",
+        "attributs": {
+          "hp": 50,
+          "strength": 6,
+          "agility": 3,
+          "intelligence": 2,
+          "spirit": 1
+        }
+    },
+    {
+        "name": "Thief",
+        "icon": "https://discord.com/channels/754468790208692245/754470556539027528/766751712547307561",
+        "description": "Only one code for thieves: fill out the contract. As for their honor... everything can be bought with gold coins. These mercenaries rely on brutal and effective tactics without any remorse.",
+        "attributs": {
+          "hp": 50,
+          "strength": 2,
+          "agility": 6,
+          "intelligence": 3,
+          "spirit": 1
+        }
+    },
+    {
+        "name": "Mage",
+        "icon": "https://media.discordapp.net/attachments/754470556539027528/766751693756039208/image0.png",
+        "description": "The smartest and most disciplined students may consider a career as a magician. Because the arcane magic manipulated by mages is both powerful and dangerous, it is taught only to those who practice it with respect and diligence.",
+        "attributs": {
+          "hp": 50,
+          "strength": 1,
+          "agility": 2,
+          "intelligence": 6,
+          "spirit": 3
+        }
+    },
+    {
+        "name": "Priest",
+        "icon": "https://discord.com/channels/754468790208692245/754470556539027528/766751731521552385",
+        "description": "It is to the spiritual that priests have dedicated their lives and it is in being at the service of others that their actions reflect the strength of their faith. For millennia, they have left the comfort of their holy places and stepped out of the confines of their temples to support their allies in the lands devastated by war.",
+        "attributs": {
+          "hp": 50,
+          "strength": 1,
+          "agility": 2,
+          "intelligence": 3,
+          "spirit": 6
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Wood sword",
+      "type": "Mh",
+      "icon": "",
+      "color": "#866526",
+      "description": "A basic wood sword",
+      "item": "Wood sword",
+      "prix": 50,
+      "attributs": { "strength": 1 }
+    },
+    {
+      "name": "Iron sword",
+      "type": "Mh",
+      "icon": "",
+      "color": "#F5F5F5",
+      "description": "A basic iron sword",
+      "item": "Iron sword",
+      "prix": 100,
+      "attributs": { "strength": 10 }
+    }
+]
